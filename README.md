@@ -5,4 +5,11 @@
 
 3. Arti dari print("Hello World") pada python adalah print digunakan untuk mencetak pesan atau tampilan ke layar, atau perangkat output standar lainnya. Pesan dapat berupa string,atau objek lain seperti angkat dan data. Nah jadi di print("Hello World") ini menggunakan string "Hello World".
 
-a. Cara eksekusi pada terminal Python: 1. Buka terminal CTRL+ALT+T. 2. Ketik python maka akan masuk ke python shell 3. Tuliskan script Python, contoh: print("Selamat datang di Python"). Jika sudah tekan tombol ENTER, dan script Python akan dijalankan/eksekusi. 4. Untuk keluar dari Python shell ketik exit() b. Cara eksekusi pada vs-code python: 1. Pasang Ekstensi Kode Pelari. 2. Buka file kode Python dalam Editor Teks, kemudian gunakan pintasan ctrl+Alt+N, atau tekan F1 dan kemudian pilih/ketik Run Code, kode akan berjalan dan output akan ditampilkan di output Window.
+4. a. Cara eksekusi pada terminal Python:
+ 1. Buka terminal CTRL+ALT+T. 
+ 2. Ketik python maka akan masuk ke python shell 
+ 3. Tuliskan script Python, contoh: print("Selamat datang di Python"). Jika sudah tekan tombol ENTER, dan script Python akan                     dijalankan/eksekusi. 
+ 4. Untuk keluar dari Python shell ketik exit()
+ b. Cara eksekusi pada vs-code python:
+ 1. Pasang Ekstensi Kode Pelari.
+ 2. Buka file kode Python dalam Editor Teks, kemudian gunakan pintasan ctrl+Alt+N, atau tekan F1 dan kemudian pilih/ketik Run Code, kode akan berjalan dan output akan ditampilkan di output Window.
